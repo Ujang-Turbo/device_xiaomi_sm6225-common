@@ -293,7 +293,8 @@ PRODUCT_PACKAGES += \
     SystemUISM6225 \
     TelephonySM6225 \
     WifiSM6225\
-    SettingsOverlaySpes
+    SettingsOverlaySpes \
+    NotchBarKiller
 
 
 # Parts
