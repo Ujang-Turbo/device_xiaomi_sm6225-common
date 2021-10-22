@@ -125,6 +125,7 @@ ro.crypto.volume.filenames_mode=aes-256-cts
 dalvik.vm.systemuicompilerfilter=speed
 
 # Display
+debug.sdm.support_writeback=0
 ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
 ro.surface_flinger.has_HDR_display=true
 ro.surface_flinger.has_wide_color_display=true
